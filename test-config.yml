@@ -19,4 +19,4 @@ spring:
 spring:
   profiles: test
   application:
-    name: test-cloud-test-2.0
+    name: test-cloud-test-4.0
