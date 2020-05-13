@@ -17,6 +17,6 @@ spring:
 ---
 
 spring:
-  profiles: test
+  profiles: test2
   application:
     name: test-cloud-test-2.0
